@@ -1,0 +1,13 @@
+.nav-div {
+  top: 0px;
+  position: sticky;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  text-decoration: none;
+  align-items: center;
+}
+
+.nav-div Link {
+  list-style: none;
+}
